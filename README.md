@@ -1,6 +1,6 @@
 # 🚀 HARD
 
-Welcome! 😊 This repository contains implementations of algorithms in "HARD: Hyperplane ARrangement Descent" by Tianjiao Ding, Liangzu Peng, and Rene Vidal. These were proudly published in the First Conference on Parsimony and Learning (CPAL 2024). 🎉
+Welcome! 😊 This repository contains implementations of algorithms in [HARD: Hyperplane ARrangement Descent](https://proceedings.mlr.press/v234/ding24a/ding24a.pdf) by Tianjiao Ding, Liangzu Peng, and Rene Vidal. These were proudly published in [the First Conference on Parsimony and Learning (CPAL 2024)](https://cpal.cc/). 🎉 
 
 ## 🎈 Getting Started
 
